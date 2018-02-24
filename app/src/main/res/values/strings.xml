@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KM01-FirstApp</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Enter username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="login_button_label">Login</string>
+    <string name="secret_password">ppp</string>
+    <string name="greeting">Hi %1$s!</string>
+    <string name="incorrect_pass_message">Incorrect password. Try again!</string>
+</resources>
